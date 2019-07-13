@@ -10,8 +10,3 @@ export interface Todo {
   completed: boolean
 }
 
-export interface setTodosAction {
-  type: ACTION_TYPES.SET_TODOS
-  payload: Todo[]
-}
-
