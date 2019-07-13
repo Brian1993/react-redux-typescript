@@ -15,4 +15,4 @@
     1. Strong type takes out the nature of javascript. Most of the javascript developer use a 
     lot of trusey and falsey characteristic of javascript to write flexible code. But with TypeScrip, 
     it dosen't work that way. Everything has a type.
-    2. Some of the library does have great type definition file which can cause a lot headache.
+    2. Some of the librarys don't have great type definition file which can cause a lot headache.
